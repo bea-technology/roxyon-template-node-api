@@ -1,0 +1,12 @@
+{
+  "name": "roxyon-template-node-api",
+  "host": "my-api.roxyon.com",
+  "folder": "",
+  "runtime": "node",
+  "runtimeVersion": "20.20.2",
+  "preset": "node",
+  "kind": "app",
+  "build": "",
+  "start": "npm start",
+  "public": true
+}
